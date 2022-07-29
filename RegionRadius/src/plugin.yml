@@ -1,0 +1,9 @@
+name: RegionRadius
+main: me.hybridplague.regionradius.RegionRadius
+version: 1.0
+depend: [WorldEdit, WorldGuard]
+api-version: 1.13
+
+commands:
+  checkradius:
+  radiuschecker:
